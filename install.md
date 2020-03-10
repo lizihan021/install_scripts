@@ -66,6 +66,7 @@ colorscheme vim-monokai-tasty
 
 set list listchars=extends:❯,precedes:❮,tab:▸\ ,trail:˽
 set number
+set wrap linebreak nolist
 set breakindent
 set breakindentopt=shift:2
 

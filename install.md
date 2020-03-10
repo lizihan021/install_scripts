@@ -65,6 +65,7 @@ let g:vim_monokai_tasty_italic = 1
 colorscheme vim-monokai-tasty
 
 set list listchars=extends:❯,precedes:❮,tab:▸\ ,trail:˽
+set fillchars+=vert:│
 set number
 set wrap linebreak nolist
 set breakindent
